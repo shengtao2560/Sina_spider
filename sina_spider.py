@@ -225,8 +225,8 @@ def getContent():
 
 
 if __name__ == '__main__':
-    username = 'shengtao3011@sina.com'
-    password = '6305318st'
+    username = '***'
+    password = '***'
 
     LoginWeibo(username, password)
 
